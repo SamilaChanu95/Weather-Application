@@ -1,4 +1,4 @@
-.home{
+.settings {
     $topBarDarkBlue: #5F7FB7;
     $topBarLightBlue: rgb(224, 224, 250);
 
@@ -6,13 +6,5 @@
     color-stop(100%, $topBarLightBlue));
     color: color($colors,dark);
     margin-top: 30px;
-}
 
-.toolbar-title{
-    text-align:center;
-}
-
-.tabs-md .tab-button-icon
-{
-    color: #ccc;
 }
