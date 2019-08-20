@@ -13,3 +13,4 @@ Also i used this commands for generate that application in ubuntu 18.04
 
 	cd WeatherJustIn
 	ionic serve
+# Weather-Application
